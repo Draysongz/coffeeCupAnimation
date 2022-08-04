@@ -16,7 +16,7 @@ body{
     height: 180px;
     border: 8px solid #ffefdb;
     border-radius: 10px 10px 60px 75px;
-    background:url(./images/coffee.png);
+    background:url(../images/coffee.png);
     background-repeat: repeat-x;
     background-position: 0 130px;
     animation:  filling 4s infinite;
